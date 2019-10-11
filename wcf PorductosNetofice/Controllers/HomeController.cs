@@ -12,6 +12,7 @@ namespace wcf_PorductosNetofice.Controllers
     {
         public ActionResult Index()
         {
+            //Cambio Hecho desde Otro PC
             return View();
         }
 
